@@ -3,13 +3,13 @@
 ## Class B / Team 2
 
 | Nama | NIM | Job |
-|--------------------------|------------|------------------------|
-| TIMOTHY WALUKOW          | H110124000 |    Admin               |
-| VIRSYA MEIDINA ANDRIADIE | H110124000 | Budget & Cost          |
-| AUDY MASTEL              | H110124000 | RDS Database           |
-| ZULFIKARNAEN             | H110124000 | Lambda Backend         |
-| MAS JIHAN AFRA AUZIA     | H110124000 | S3+CloudFront Frontend |
-| NADYA AULIA TIARANI      | H110124000 | Test & Docs            |
+|--------------------------|-------------|------------------------|
+| TIMOTHY WALUKOW          | H1101241048 |    Admin               |
+| VIRSYA MEIDINA ANDRIADIE | H1101241004 | Budget & Cost          |
+| AUDY MASTEL              | H1101241020 | RDS Database           |
+| ZULFIKARNAEN             | H1101241009 | Lambda Backend         |
+| MAS JIHAN AFRA AUZIA     | H1101241011 | S3+CloudFront Frontend |
+| NADYA AULIA TIARANI      | H1101241030 | Test & Docs            |
 
 ## 🐱‍🏍Laporan Implementasi Monorepo AWS
 
