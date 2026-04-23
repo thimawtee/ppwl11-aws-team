@@ -1,22 +1,17 @@
-// apps/frontend/src/main.tsx
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './index.css'
-
-// Routing sederhana berdasarkan path
-const path = window.location.pathname
-
-let App
-if (path === '/classroom') {
-  const { default: ClassroomApp } = await import('./App3')
-  App = ClassroomApp
-} else {
-  const { default: DefaultApp } = await import('./App2')
-  App = DefaultApp
-}
+import App3 from './App3'
+import App2 from './App2'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+    <BrowserRouter>
+      <Routes>
+        <Route path="/classroom" element={<App3 />} />
+        <Route path="*" element={<App2 />} />
+      </Routes>
+    </BrowserRouter>
   </StrictMode>
 )
