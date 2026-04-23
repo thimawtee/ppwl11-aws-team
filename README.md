@@ -84,7 +84,7 @@ Pada fase ini:
 - Seluruh fitur berjalan sesuai fungsinya
 - Deployment terbukti stabil
 
-✔ Checlist Tampilan : 
+✔ Checklist Tampilan : 
 - Tampilan FrontEnd : *[Tampilan_Frontend](https://drive.google.com/file/d/1mflrRDzi71bpJ2EVyIywCqcYB58ymknj/view?usp=sharing)*
 - Tampilan Integrasi Backend : *[Hasil_Integrasi_Backend](https://drive.google.com/file/d/1H77UgfxGiCXV8Y-8PdVhgDJnehGQ3sRj/view?usp=sharing)*
 - Tampilan Frontend/classroom : *[Tampilan_Login_Classroom](https://drive.google.com/file/d/1O-UAI2O81FaQwSj3M1QvsmRSvd_Ybv47/view?usp=sharing)*
