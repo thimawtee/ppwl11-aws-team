@@ -1,0 +1,44 @@
+# dependencies
+node_modules
+
+# output
+out
+dist
+dist-lambda
+*.tgz
+*.zip
+
+# database
+*.db
+
+# code coverage
+coverage
+*.lcov
+
+# logs
+logs
+*.log
+
+# dotenv environment variable files
+.env
+.env.*
+.env.development
+.env.production
+
+# caches
+.eslintcache
+.cache
+*.tsbuildinfo
+
+# IDE
+.idea
+
+# OS
+.DS_Store
+
+# prisma generated
+**/generated/prisma
+**/generated/prisma-pg
+
+# cert (opsional)
+cert/
