@@ -25,7 +25,7 @@ Pada fase ini:
 - Menyiapkan infrastruktur awal untuk deployment sistem
 
 Hasil:
-📸 Dokumentasi :[ *Paramter_Store*]([url](https://drive.google.com/file/d/1rb5EeO3kEz31DKTXcdB0j2BvOry_02p6/view?usp=sharing)
+- 📸 Dokumentasi :[ *Paramter_Store*](https://drive.google.com/file/d/1rb5EeO3kEz31DKTXcdB0j2BvOry_02p6/view?usp=sharing)
 )
 
 ## Fase 2 ✅
@@ -37,7 +37,7 @@ Pada fase ini:
 - Mengontrol penggunaan resource agar tetap efisien
 
 Hasil:
-📸 Dokumentasi :[ *Budget & Cost*]([url](https://drive.google.com/file/d/1PFBtKQTLJ9fGNf6WIdh6insSN-UZrp_c/view?usp=sharing)
+- 📸 Dokumentasi :[ *Budget & Cost*](https://drive.google.com/file/d/1PFBtKQTLJ9fGNf6WIdh6insSN-UZrp_c/view?usp=sharing)
 )
 
 ## Fase 3 ✅
@@ -49,7 +49,7 @@ Pada fase ini:
 - Database siap digunakan untuk kebutuhan backend
 
 Hasil:
-📸 Dokumentasi :[ *RDS_Console*]([url](https://drive.google.com/file/d/12A4988sk0QdwaWEkxhHPv6dhPZlNLyrm/view?usp=sharing)
+- 📸 Dokumentasi :[ *RDS_Console*](https://drive.google.com/file/d/12A4988sk0QdwaWEkxhHPv6dhPZlNLyrm/view?usp=sharing)
 )
 
 ## Fase 4 ✅
@@ -61,7 +61,7 @@ Pada fase ini:
 - Backend mampu memproses request dengan baik
 
 Hasil:
-📸 Dokumentasi :[ *Lambda-Backend*]([url](https://drive.google.com/file/d/1R4SYVjOR4EwiHegZmYBGr0k9qqz_nqf9/view?usp=sharing)
+- 📸 Dokumentasi :[ *Lambda-Backend*](https://drive.google.com/file/d/1R4SYVjOR4EwiHegZmYBGr0k9qqz_nqf9/view?usp=sharing)
 )
 
 ## Fase 5 ✅
@@ -73,7 +73,7 @@ Pada fase ini:
 - Aplikasi frontend dapat diakses melalui endpoint publik
 
 Hasil:
-📸 Dokumentasi :[ *CloudFront Distribution*]([url](https://drive.google.com/file/d/1PFBtKQTLJ9fGNf6WIdh6insSN-UZrp_c/view?usp=sharing)
+- 📸 Dokumentasi :[ *CloudFront Distribution*](https://drive.google.com/file/d/1PFBtKQTLJ9fGNf6WIdh6insSN-UZrp_c/view?usp=sharing)
 )
 
 ## Fase 6 ✅
@@ -90,7 +90,7 @@ Pada fase ini:
 - Tampilan frontend/classroom : *[Tampilan Login Classroom](https://drive.google.com/file/d/1O-UAI2O81FaQwSj3M1QvsmRSvd_Ybv47/view?usp=sharing)*
 - Tampilan Cek Network di F12 (auth/me & classroom/courses = 200) : *[Cek JWT & Token](https://drive.google.com/file/d/1O-UAI2O81FaQwSj3M1QvsmRSvd_Ybv47/view?usp=sharing)*
 - Tampilan Cek JWT & Token : *[Cek JWT & Token](https://drive.google.com/file/d/1b9eRH0U_Hgx99E_kMXG-JN2-JPGTCLCA/view?usp=sharing)*
-- Tampilan Refresh Halaman : *Video-Refresh-Halaman*
+- Tampilan Refresh Halaman : *[Video-Refresh-Halaman](https://drive.google.com/file/d/1Zr1pzsqZ_HuAFb0nRgGwXDVQlmQ41l2F/view?usp=drive_link)*
 - Tampilan Endpoint/users?key=learn : *[Endpoint/users?key=learn*](https://drive.google.com/file/d/1daQGQ_CIK5ajSJQHFmq6poohfAGIvuya/view?usp=sharing)
 
 - [Canva-Arsitektur_AWS](https://canva.link/x4lkjwez9if57dc)
